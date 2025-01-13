@@ -1527,6 +1527,17 @@
         ],
         "type": "Polygon"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          78.69042192194951,
+          11.264112446125623
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
